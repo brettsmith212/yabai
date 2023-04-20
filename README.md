@@ -1,6 +1,6 @@
 # Instructions
 
-1. clone project into .config
+1. clone project into .config/
 2. brew install yabai
 
 - brew start services yabai
