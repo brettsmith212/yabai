@@ -1,8 +1,8 @@
 # Instructions
 
 1. clone project into .config/
-2. brew install yabai
+2. brew install koekeishiya/formulae/yabai
 
-- brew start services yabai
-- brew stop services yabai
-- brew restart services yabai
+- brew services start yabai
+- brew services stop yabai
+- brew services restart yabai
