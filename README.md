@@ -7,6 +7,12 @@
 - brew services stop yabai
 - brew services restart yabai
 
+or
+
+- yabai --start-service
+- yabai --stop-service
+- yabai --restart-service
+
 3. Change System Settings on Mac
 
 - Create 7 Desktop Windows
